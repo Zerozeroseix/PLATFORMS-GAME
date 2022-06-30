@@ -26,4 +26,4 @@ This project was possible thanks to the guide of Javier Muñiz ([here](https://w
 
 This is from Javier Muñiz's course
 
-[Click here to access](https://www.udemy.com/course/programa-tus-primeros-juegos-html5-con-javascript/learn/lecture/9193040#overview)
+[Click here to access](https://www.udemy.com/course/programa-tus-primeros-juegos-html5-con-javascript/)
